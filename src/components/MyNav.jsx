@@ -5,7 +5,7 @@ import LIBRI from "../LIBRI.jpg"
 
 function MyNav() {
   return(
-    <Navbar className= "bg-light d-flex justify-content-center" expand="lg">
+    <Navbar className= "bg-info p-3 d-flex justify-content-center" expand="lg">
       <Container fluid>
         <img src= {LIBRI} alt="logo" className='rounded-circle' height={60} width={60}/>
         <p className="ms-3 fw-bold">EpiBooks</p>
