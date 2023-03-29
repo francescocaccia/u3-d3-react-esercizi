@@ -1,4 +1,3 @@
-
 import {Component} from 'react';
 import { Container,Row, Card, Col, Badge, Carousel,} from 'react-bootstrap';
 import data from "../data/history.json"
